@@ -1,51 +1,54 @@
-/* Định dạng phần header */
-header {
-  background-color: #333;
-  padding: 10px;
-  color: #fff;
-}
+<!DOCTYPE html>
+<html>
 
-h1 {
-  margin: 0;
-}
+<head>
+    <title>Trang web hub</title>
+</head>
 
-nav ul {
-  list-style-type: none;
-  padding: 0;
-}
+<body>
+    <header>
+        <h1>Trang web hub</h1>
+        <nav>
+            <ul>
+                <li><a href="#">Trang chủ</a></li>
+                <li><a href="#">Giới thiệu</a></li>
+                <li><a href="#">Dịch vụ</a></li>
+                <li><a href="#">Liên hệ</a></li>
+            </ul>
+        </nav>
+    </header>
 
-nav ul li {
-  display: inline;
-  margin-right: 10px;
-}
+    <main>
+        <section>
+            <h2>Chào mừng đến với trang web hub!</h2>
+            <p>Trang web hub là nơi cung cấp thông tin về các dịch vụ và sản phẩm mới nhất.</p>
+        </section>
 
-nav ul li a {
-  color: #fff;
-  text-decoration: none;
-}
+        <section>
+            <h2>Giới thiệu</h2>
+            <p>Trang web hub cung cấp một nền tảng để chia sẻ thông tin và kết nối với cộng đồng.</p>
+        </section>
 
-/* Định dạng phần main */
-main {
-  margin: 20px;
-}
+        <section>
+            <h2>Dịch vụ</h2>
+            <ul>
+                <li>Dịch vụ 1</li>
+                <li>Dịch vụ 2</li>
+                <li>Dịch vụ 3</li>
+            </ul>
+        </section>
 
-section {
-  margin-bottom: 20px;
-}
+        <section>
+            <h2>Liên hệ</h2>
+            <p>Địa chỉ: 123 Đường ABC, Thành phố XYZ</p>
+            <p>Email: contact@hub.com</p>
+            <p>Điện thoại: 123-456-7890</p>
+        </section>
+    </main>
 
-h2 {
-  color: #333;
-}
+    <footer>
+        <p>Bản quyền © 2023 Trang web hub. All rights reserved.</p>
+    </footer>
+</body>
 
-ul {
-  list-style-type: disc;
-  margin-left: 20px;
-}
-
-/* Định dạng phần footer */
-footer {
-  background-color: #333;
-  padding: 10px;
-  color: #fff;
-  text-align: center;
-}
+</html>
