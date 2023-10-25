@@ -4,8 +4,7 @@
 <head>
     <title>Lê Duy</title>
     <meta name="google-site-verification" content="8jeFoWOlFUBogMQXb5SXXz3s3zi1cYzimfykiBVSD9U" />
-</head
-
+</head>
 <body>
     <header>
         <h1>Thông tin mạng xã hội</h1>
