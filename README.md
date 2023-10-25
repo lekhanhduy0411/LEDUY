@@ -4,8 +4,8 @@
 <head>
     <meta name="google-site-verification" content="8jeFoWOlFUBogMQXb5SXXz3s3zi1cYzimfykiBVSD9U" />
     <title>Lê Duy</title>
-   <meta name="google-site-verification" content="8jeFoWOlFUBogMQXb5SXXz3s3zi1cYzimfykiBVSD9U" />
-</head>
+<meta name="google-site-verification" content="8jeFoWOlFUBogMQXb5SXXz3s3zi1cYzimfykiBVSD9U" />
+</head
 
 <body>
     <header>
